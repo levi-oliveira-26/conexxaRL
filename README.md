@@ -1,16 +1,19 @@
 📝 Roteiro da Atividade: Levantamento de Requisitos – Connexa (Etapa 1)
+
 🎯 Objetivo da Atividade
 Realizar o levantamento de requisitos a partir de um cenário fictício, organizando-os em user stories com critérios de aceitação bem definidos e criando um backlog de produto utilizando o Azure DevOps Boards.
 
 📌 Cenário Fictício
-Produto: Connexa
 
+Produto: Connexa
 Problema: Alunos universitários têm dificuldade em encontrar colegas para formar grupos de estudo. O processo atual é desorganizado e pouco eficiente (grupos de WhatsApp, murais físicos, etc.).
 Solução Proposta: Uma plataforma web para criar, buscar e participar de grupos de estudo de forma estruturada.
 Cada grupo deve possuir, no mínimo: matéria, objetivo (ex: prova, projeto), local (online/presencial) e um limite de participantes.
+
 👥 Organização da Atividade
 Grupos de Trabalho: 3 a 5 alunos.
 Ferramenta Principal: Azure DevOps Boards → Para criação do backlog e gestão das user stories.
+
 🚀 Criação do Backlog (User Stories)
 O objetivo desta etapa é traduzir as necessidades do produto Connexa em um backlog funcional. O backlog é uma lista priorizada de funcionalidades que guiará o desenvolvimento futuro do projeto.
 
@@ -25,6 +28,7 @@ Na tela de login da Microsoft, utilize suas credenciais institucionais (o mesmo 
 Após o login, o sistema pode pedir para confirmar alguns detalhes. Prossiga para criar sua Organização (sugestão: NomeDaSuaFaculdade-SuaTurma) e seu primeiro Projeto.
 Ao criar o projeto, dê um nome a ele (ex: Connexa-Grupo01), mantenha a visibilidade como "Private" (Privado) e, nas configurações avançadas, selecione o processo "Agile" em Work item process.
 Após a criação, navegue até a seção "Boards" > "Backlogs" no menu lateral esquerdo. É aqui que vocês irão criar e gerenciar suas User Stories.
+
 🔹 Parte 2: Estrutura e Criação das User Stories
 Cada funcionalidade do produto deve ser descrita como uma User Story, seguindo o modelo padrão para garantir clareza e foco no valor para o usuário.
 
